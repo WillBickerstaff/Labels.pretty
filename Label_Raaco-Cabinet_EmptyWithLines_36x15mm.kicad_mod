@@ -1,12 +1,12 @@
-(module Label_Raaco-Cabinet_EmptyWithLines_36x15mm_RevA_09Feb2011 (layer F.Cu)
+(module Label_Raaco-Cabinet_EmptyWithLines_36x15mm (layer F.Cu)
   (at 0 0)
   (descr "Label 36 x 15 mm fitting for Raaco- Cabinets. Etikett 36 x 15 mm passend für Raaco Bauteilmagazin")
   (tags "Label, 36 x 15 mm, Raaco, Cabinet, Bauteilmagazin,")
-  (fp_text reference Label (at 0.254 -9.398) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text reference Label_Raaco-Cabinet_EmptyWithLines_36x15mm (at 0.254 -9.398) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Label_Raaco-Cabinet_EmptyWithLines_36x15mm_RevA_09Feb2011 (at 0 9.652) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text value VAL** (at 0 9.652) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -15.49908 0) (end 15.49908 0) (layer F.SilkS) (width 0.15))
   (fp_line (start -17.5006 -7.00024) (end 17.5006 -7.00024) (layer F.SilkS) (width 0.15))

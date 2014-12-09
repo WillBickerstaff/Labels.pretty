@@ -1,10 +1,10 @@
-(module Label_Round_Diameter20mm_RevA_21Mar2011 (layer F.Cu)
+(module Label_Round_Diameter20mm (layer F.Cu)
   (at 0 0)
-  (fp_text reference Label (at 0 -11.50112) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text reference Label_Round_Diameter20mm (at 0 -11.50112) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Label_Round_Diameter20mm_RevA_21Mar2011 (at 0 11.99896) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text value VAL** (at 0 11.99896) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -7.00024 4.50088) (end 7.00024 4.50088) (layer F.SilkS) (width 0.15))
   (fp_line (start -7.00024 -4.50088) (end 7.00024 -4.50088) (layer F.SilkS) (width 0.15))
