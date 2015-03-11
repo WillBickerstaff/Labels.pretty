@@ -1,9 +1,9 @@
 (module Label_EmptyWithLines_40x20mm (layer F.Cu)
   (at 0 0)
-  (fp_text reference Label_EmptyWithLines_40x20mm (at 0 -11.50112) (layer F.SilkS) hide
+  (fp_text reference REF** (at 0 -11.50112) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 12.49934) (layer F.SilkS) hide
+  (fp_text value Label_EmptyWithLines_40x20mm (at 0 12.49934) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 17.5006 0) (end 17.5006 -0.50038) (layer F.SilkS) (width 0.15))
